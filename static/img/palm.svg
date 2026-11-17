@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Palm tree</title>
+  <path d="M30 58 C31 46 32 36 35 25 L38 25 C35 36 34 47 34 58 Z" fill="#8B6B42"/>
+  <path d="M31.5 52 L34.5 51 M32.3 45 L35.2 44 M33.2 38 L36 37 M34.2 31 L37 30.5" stroke="#6E5332" stroke-width="1.2" stroke-linecap="round"/>
+  <g fill="#28823E">
+    <path d="M36 24 C30 16 20 15 12 20 C20 19 27 21 36 26 Z"/>
+    <path d="M36 24 C29 22 20 26 15 34 C22 28 29 26 36 26 Z"/>
+    <path d="M37 24 C43 15 53 14 60 20 C52 19 45 21 37 26 Z"/>
+    <path d="M37 24 C44 22 52 26 56 34 C50 28 44 26 37 26 Z"/>
+    <path d="M36 24 C34 15 38 8 45 5 C40 10 38 16 37 24 Z"/>
+  </g>
+  <circle cx="34" cy="27" r="2.2" fill="#6E5332"/>
+  <circle cx="38.5" cy="27.5" r="2.2" fill="#6E5332"/>
+  <ellipse cx="32" cy="59" rx="12" ry="2" fill="#E7D0B0"/>
+</svg>
