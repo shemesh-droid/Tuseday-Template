@@ -32,9 +32,9 @@
   --ifm-font-family-monospace: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;
  
   --ifm-font-color-base: var(--paper-ink);
-  --ifm-background-color: #ffffff;
-  --ifm-navbar-background-color: #ffffff;
-  --ifm-footer-background-color: #1c1e21;
+  --ifm-background-color: #49FFCB;
+  --ifm-navbar-background-color: #49FFCB;
+  --ifm-footer-background-color: #49FFCB;
  
 /** 
   * Here is where you find the font sizes. The base font is set to 17 pixels, and the rest are defined in relation to it. 
